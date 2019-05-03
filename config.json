@@ -2,19 +2,11 @@
   "Daily Life": [
     {
       "height": 2910,
-      "compressed_path": "./photos/Daily Life/_DSF5241.min.jpg",
+      "compressed_path": "./photos/Daily Life/DSF5241.min.jpg",
       "width": 4616,
       "compressed": false,
-      "placeholder_path": "./photos/Daily Life/_DSF5241.placeholder.jpg",
-      "path": "./photos/Daily Life/_DSF5241.jpg"
-    },
-    {
-      "height": 3168,
-      "compressed_path": "./photos/Daily Life/_MG_1031.min.jpg",
-      "width": 2745,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/_MG_1031.placeholder.jpg",
-      "path": "./photos/Daily Life/_MG_1031.jpg"
+      "placeholder_path": "./photos/Daily Life/DSF5241.placeholder.jpg",
+      "path": "./photos/Daily Life/DSF5241.jpg"
     },
     {
       "height": 4697,
@@ -23,6 +15,14 @@
       "compressed": false,
       "placeholder_path": "./photos/Daily Life/IM000048.placeholder.jpg",
       "path": "./photos/Daily Life/IM000048.jpg"
+    },
+    {
+      "height": 3168,
+      "compressed_path": "./photos/Daily Life/MG_1031.min.jpg",
+      "width": 2745,
+      "compressed": false,
+      "placeholder_path": "./photos/Daily Life/MG_1031.placeholder.jpg",
+      "path": "./photos/Daily Life/MG_1031.jpg"
     }
   ],
   "Travel": [
@@ -62,27 +62,27 @@
   "Hopie Journey": [
     {
       "height": 3634,
-      "compressed_path": "./photos/Hopie Journey/_DSF5262.min.jpg",
+      "compressed_path": "./photos/Hopie Journey/DSF5262.min.jpg",
       "width": 2671,
       "compressed": false,
-      "placeholder_path": "./photos/Hopie Journey/_DSF5262.placeholder.jpg",
-      "path": "./photos/Hopie Journey/_DSF5262.jpg"
+      "placeholder_path": "./photos/Hopie Journey/DSF5262.placeholder.jpg",
+      "path": "./photos/Hopie Journey/DSF5262.jpg"
     },
     {
       "height": 4266,
-      "compressed_path": "./photos/Hopie Journey/_DSF5272.min.jpg",
+      "compressed_path": "./photos/Hopie Journey/DSF5272.min.jpg",
       "width": 3175,
       "compressed": false,
-      "placeholder_path": "./photos/Hopie Journey/_DSF5272.placeholder.jpg",
-      "path": "./photos/Hopie Journey/_DSF5272.jpg"
+      "placeholder_path": "./photos/Hopie Journey/DSF5272.placeholder.jpg",
+      "path": "./photos/Hopie Journey/DSF5272.jpg"
     },
     {
       "height": 2762,
-      "compressed_path": "./photos/Hopie Journey/_DSF5295.min.jpg",
+      "compressed_path": "./photos/Hopie Journey/DSF5295.min.jpg",
       "width": 4171,
       "compressed": false,
-      "placeholder_path": "./photos/Hopie Journey/_DSF5295.placeholder.jpg",
-      "path": "./photos/Hopie Journey/_DSF5295.jpg"
+      "placeholder_path": "./photos/Hopie Journey/DSF5295.placeholder.jpg",
+      "path": "./photos/Hopie Journey/DSF5295.jpg"
     }
   ]
 }
