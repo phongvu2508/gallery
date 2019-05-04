@@ -27,36 +27,12 @@
   ],
   "Travel": [
     {
-      "height": 3148,
-      "compressed_path": "./photos/Travel/IMG_1517 as Smart Object-1And2more_tonemapped.min.jpg",
-      "width": 4722,
+      "height": 1280,
+      "compressed_path": "./photos/Travel/WP_20140809_10_00_49_Pro.min.jpg",
+      "width": 760,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_1517 as Smart Object-1And2more_tonemapped.placeholder.jpg",
-      "path": "./photos/Travel/IMG_1517 as Smart Object-1And2more_tonemapped.jpg"
-    },
-    {
-      "height": 3147,
-      "compressed_path": "./photos/Travel/IMG_1523 as Smart Object-1And2more_tonemapped as Smart Object-1.min.jpg",
-      "width": 4734,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_1523 as Smart Object-1And2more_tonemapped as Smart Object-1.placeholder.jpg",
-      "path": "./photos/Travel/IMG_1523 as Smart Object-1And2more_tonemapped as Smart Object-1.jpg"
-    },
-    {
-      "height": 3068,
-      "compressed_path": "./photos/Travel/IMG_3147 as Smart Object-1And2more_tonemapped as Smart Object-1.min.jpg",
-      "width": 4646,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_3147 as Smart Object-1And2more_tonemapped as Smart Object-1.placeholder.jpg",
-      "path": "./photos/Travel/IMG_3147 as Smart Object-1And2more_tonemapped as Smart Object-1.jpg"
-    },
-    {
-      "height": 3151,
-      "compressed_path": "./photos/Travel/IMG_3296 as Smart Object-1And2more_tonemapped as Smart Object-1.min.jpg",
-      "width": 4733,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_3296 as Smart Object-1And2more_tonemapped as Smart Object-1.placeholder.jpg",
-      "path": "./photos/Travel/IMG_3296 as Smart Object-1And2more_tonemapped as Smart Object-1.jpg"
+      "placeholder_path": "./photos/Travel/WP_20140809_10_00_49_Pro.placeholder.jpg",
+      "path": "./photos/Travel/WP_20140809_10_00_49_Pro.jpg"
     }
   ],
   "Hopie Journey": [
