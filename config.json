@@ -1,358 +1,348 @@
 {
-  "Daily Life": [
-    {
-      "height": 1210,
-      "compressed_path": "./photos/Daily Life/DSCF6392.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/DSCF6392.placeholder.jpg",
-      "path": "./photos/Daily Life/DSCF6392.jpg"
-    },
-    {
-      "height": 807,
-      "compressed_path": "./photos/Daily Life/DSF5241.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/DSF5241.placeholder.jpg",
-      "path": "./photos/Daily Life/DSF5241.jpg"
-    },
-    {
-      "height": 892,
-      "compressed_path": "./photos/Daily Life/food (39).min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/food (39).placeholder.jpg",
-      "path": "./photos/Daily Life/food (39).jpg"
-    },
-    {
-      "height": 912,
-      "compressed_path": "./photos/Daily Life/IM000003.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IM000003.placeholder.jpg",
-      "path": "./photos/Daily Life/IM000003.jpg"
-    },
-    {
-      "height": 803,
-      "compressed_path": "./photos/Daily Life/IM000014.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IM000014.placeholder.jpg",
-      "path": "./photos/Daily Life/IM000014.jpg"
-    },
-    {
-      "height": 1108,
-      "compressed_path": "./photos/Daily Life/IM000043.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IM000043.placeholder.jpg",
-      "path": "./photos/Daily Life/IM000043.jpg"
-    },
-    {
-      "height": 1280,
-      "compressed_path": "./photos/Daily Life/IM000048.min.jpg",
-      "width": 889,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IM000048.placeholder.jpg",
-      "path": "./photos/Daily Life/IM000048.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_1116.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_1116.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_1116.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_1401.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_1401.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_1401.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_1414 copy.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_1414 copy.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_1414 copy.jpg"
-    },
-    {
-      "height": 937,
-      "compressed_path": "./photos/Daily Life/IMG_1653 copy.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_1653 copy.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_1653 copy.jpg"
-    },
-    {
-      "height": 1280,
-      "compressed_path": "./photos/Daily Life/IMG_2256 copy.min.jpg",
-      "width": 1142,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_2256 copy.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_2256 copy.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_2903.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_2903.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_2903.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_2915.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_2915.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_2915.jpg"
-    },
-    {
-      "height": 1280,
-      "compressed_path": "./photos/Daily Life/IMG_3495 as Smart Object-1 copy.min.jpg",
-      "width": 851,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_3495 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_3495 as Smart Object-1 copy.jpg"
-    },
-    {
-      "height": 875,
-      "compressed_path": "./photos/Daily Life/IMG_3516 as Smart Object-1 copy.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_3516 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_3516 as Smart Object-1 copy.jpg"
-    },
-    {
-      "height": 1280,
-      "compressed_path": "./photos/Daily Life/IMG_5436 as Smart Object-1.min.jpg",
-      "width": 853,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_5436 as Smart Object-1.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_5436 as Smart Object-1.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_7595.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_7595.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_7595.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Daily Life/IMG_8366.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_8366.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_8366.jpg"
-    },
-    {
-      "height": 1280,
-      "compressed_path": "./photos/Daily Life/IMG_9151 copy.min.jpg",
-      "width": 853,
-      "compressed": false,
-      "placeholder_path": "./photos/Daily Life/IMG_9151 copy.placeholder.jpg",
-      "path": "./photos/Daily Life/IMG_9151 copy.jpg"
-    }
-  ],
-  "Travel": [
+  "Here and There": [
     {
       "height": 951,
-      "compressed_path": "./photos/Travel/DSCF0232.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF0232.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF0232.placeholder.jpg",
-      "path": "./photos/Travel/DSCF0232.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF0232.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF0232.jpg"
     },
     {
       "height": 826,
-      "compressed_path": "./photos/Travel/DSCF0433.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF0433.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF0433.placeholder.jpg",
-      "path": "./photos/Travel/DSCF0433.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF0433.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF0433.jpg"
+    },
+    {
+      "height": 1210,
+      "compressed_path": "./photos/Here and There/DSCF6392.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/DSCF6392.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF6392.jpg"
     },
     {
       "height": 924,
-      "compressed_path": "./photos/Travel/DSCF7058.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7058.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7058.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7058.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7058.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7058.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/DSCF7122_BW.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7122_BW.min.jpg",
       "width": 751,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7122_BW.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7122_BW.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7122_BW.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7122_BW.jpg"
     },
     {
       "height": 850,
-      "compressed_path": "./photos/Travel/DSCF7368.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7368.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7368.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7368.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7368.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7368.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/DSCF7381.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7381.min.jpg",
       "width": 850,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7381.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7381.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7381.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7381.jpg"
     },
     {
       "height": 850,
-      "compressed_path": "./photos/Travel/DSCF7977.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7977.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7977.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7977.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7977.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7977.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/DSCF7979.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7979.min.jpg",
       "width": 817,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7979.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7979.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7979.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7979.jpg"
     },
     {
       "height": 850,
-      "compressed_path": "./photos/Travel/DSCF7985.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7985.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7985.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7985.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7985.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7985.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/DSCF7986.min.jpg",
+      "compressed_path": "./photos/Here and There/DSCF7986.min.jpg",
       "width": 850,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSCF7986.placeholder.jpg",
-      "path": "./photos/Travel/DSCF7986.jpg"
+      "placeholder_path": "./photos/Here and There/DSCF7986.placeholder.jpg",
+      "path": "./photos/Here and There/DSCF7986.jpg"
+    },
+    {
+      "height": 807,
+      "compressed_path": "./photos/Here and There/DSF5241.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/DSF5241.placeholder.jpg",
+      "path": "./photos/Here and There/DSF5241.jpg"
+    },
+    {
+      "height": 892,
+      "compressed_path": "./photos/Here and There/food (39).min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/food (39).placeholder.jpg",
+      "path": "./photos/Here and There/food (39).jpg"
+    },
+    {
+      "height": 912,
+      "compressed_path": "./photos/Here and There/IM000003.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IM000003.placeholder.jpg",
+      "path": "./photos/Here and There/IM000003.jpg"
+    },
+    {
+      "height": 803,
+      "compressed_path": "./photos/Here and There/IM000014.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IM000014.placeholder.jpg",
+      "path": "./photos/Here and There/IM000014.jpg"
+    },
+    {
+      "height": 1108,
+      "compressed_path": "./photos/Here and There/IM000043.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IM000043.placeholder.jpg",
+      "path": "./photos/Here and There/IM000043.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Here and There/IM000048.min.jpg",
+      "width": 889,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IM000048.placeholder.jpg",
+      "path": "./photos/Here and There/IM000048.jpg"
     },
     {
       "height": 793,
-      "compressed_path": "./photos/Travel/IMG_1081 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_1081 as Smart Object-1 copy.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_1081 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/IMG_1081 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/IMG_1081 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1081 as Smart Object-1 copy.jpg"
     },
     {
       "height": 853,
-      "compressed_path": "./photos/Travel/IMG_1175 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_1175 as Smart Object-1 copy.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_1175 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/IMG_1175 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/IMG_1175 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1175 as Smart Object-1 copy.jpg"
     },
     {
       "height": 854,
-      "compressed_path": "./photos/Travel/IMG_1215 as Smart Object-1.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_1215 as Smart Object-1.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_1215 as Smart Object-1.placeholder.jpg",
-      "path": "./photos/Travel/IMG_1215 as Smart Object-1.jpg"
+      "placeholder_path": "./photos/Here and There/IMG_1215 as Smart Object-1.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1215 as Smart Object-1.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/IMG_1234 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_1234 as Smart Object-1 copy.min.jpg",
       "width": 1037,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_1234 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/IMG_1234 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/IMG_1234 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1234 as Smart Object-1 copy.jpg"
     },
     {
       "height": 853,
-      "compressed_path": "./photos/Travel/IMG_3827 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_1401.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_3827 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/IMG_3827 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/IMG_1401.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1401.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_1414 copy.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_1414 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1414 copy.jpg"
+    },
+    {
+      "height": 937,
+      "compressed_path": "./photos/Here and There/IMG_1653 copy.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_1653 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_1653 copy.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/IMG_3839 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_2256 copy.min.jpg",
+      "width": 1142,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_2256 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_2256 copy.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_2903.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_2903.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_2903.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_2915.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_2915.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_2915.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Here and There/IMG_3495 as Smart Object-1 copy.min.jpg",
+      "width": 851,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_3495 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_3495 as Smart Object-1 copy.jpg"
+    },
+    {
+      "height": 875,
+      "compressed_path": "./photos/Here and There/IMG_3516 as Smart Object-1 copy.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_3516 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_3516 as Smart Object-1 copy.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_3827 as Smart Object-1 copy.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_3827 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_3827 as Smart Object-1 copy.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Here and There/IMG_3839 as Smart Object-1 copy.min.jpg",
       "width": 822,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_3839 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/IMG_3839 as Smart Object-1 copy.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Travel/IMG_7927.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_7927.placeholder.jpg",
-      "path": "./photos/Travel/IMG_7927.jpg"
-    },
-    {
-      "height": 853,
-      "compressed_path": "./photos/Travel/IMG_7937.min.jpg",
-      "width": 1280,
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_7937.placeholder.jpg",
-      "path": "./photos/Travel/IMG_7937.jpg"
+      "placeholder_path": "./photos/Here and There/IMG_3839 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_3839 as Smart Object-1 copy.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/MG_1031.min.jpg",
+      "compressed_path": "./photos/Here and There/IMG_5436 as Smart Object-1.min.jpg",
+      "width": 853,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_5436 as Smart Object-1.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_5436 as Smart Object-1.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_7595.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_7595.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_7595.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_7927.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_7927.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_7927.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_7937.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_7937.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_7937.jpg"
+    },
+    {
+      "height": 853,
+      "compressed_path": "./photos/Here and There/IMG_8366.min.jpg",
+      "width": 1280,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_8366.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_8366.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Here and There/IMG_9151 copy.min.jpg",
+      "width": 853,
+      "compressed": false,
+      "placeholder_path": "./photos/Here and There/IMG_9151 copy.placeholder.jpg",
+      "path": "./photos/Here and There/IMG_9151 copy.jpg"
+    },
+    {
+      "height": 1280,
+      "compressed_path": "./photos/Here and There/MG_1031.min.jpg",
       "width": 1109,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/MG_1031.placeholder.jpg",
-      "path": "./photos/Travel/MG_1031.jpg"
+      "placeholder_path": "./photos/Here and There/MG_1031.placeholder.jpg",
+      "path": "./photos/Here and There/MG_1031.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/P2020911.min.jpg",
+      "compressed_path": "./photos/Here and There/P2020911.min.jpg",
       "width": 1164,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/P2020911.placeholder.jpg",
-      "path": "./photos/Travel/P2020911.jpg"
+      "placeholder_path": "./photos/Here and There/P2020911.placeholder.jpg",
+      "path": "./photos/Here and There/P2020911.jpg"
     },
     {
       "height": 1191,
-      "compressed_path": "./photos/Travel/P2030945 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/P2030945 as Smart Object-1 copy.min.jpg",
       "width": 1280,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/P2030945 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/P2030945 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/P2030945 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/P2030945 as Smart Object-1 copy.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/P2030947 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/P2030947 as Smart Object-1 copy.min.jpg",
       "width": 1076,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/P2030947 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/P2030947 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/P2030947 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/P2030947 as Smart Object-1 copy.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/P2030960 as Smart Object-1 copy.min.jpg",
+      "compressed_path": "./photos/Here and There/P2030960 as Smart Object-1 copy.min.jpg",
       "width": 960,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/P2030960 as Smart Object-1 copy.placeholder.jpg",
-      "path": "./photos/Travel/P2030960 as Smart Object-1 copy.jpg"
+      "placeholder_path": "./photos/Here and There/P2030960 as Smart Object-1 copy.placeholder.jpg",
+      "path": "./photos/Here and There/P2030960 as Smart Object-1 copy.jpg"
     },
     {
       "height": 1280,
-      "compressed_path": "./photos/Travel/WP_20140809_10_00_49_Pro.min.jpg",
+      "compressed_path": "./photos/Here and There/WP_20140809_10_00_49_Pro.min.jpg",
       "width": 760,
       "compressed": false,
-      "placeholder_path": "./photos/Travel/WP_20140809_10_00_49_Pro.placeholder.jpg",
-      "path": "./photos/Travel/WP_20140809_10_00_49_Pro.jpg"
+      "placeholder_path": "./photos/Here and There/WP_20140809_10_00_49_Pro.placeholder.jpg",
+      "path": "./photos/Here and There/WP_20140809_10_00_49_Pro.jpg"
     }
   ]
 }
